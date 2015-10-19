@@ -57,11 +57,12 @@
     <script src="bower_components/angular-route/angular-route.js"></script>
     <script src="bower_components/angular-messages/angular-messages.js"></script>
     <script src="bower_components/traceur/traceur.js"></script>
+    <script src="bower_components/requirejs/require.js" data-main="dist/all.js"></script>
     <script>
-        traceur.options.experimental = true;
-        new traceur.WebPageTranscoder(document.location.href).run();
+        //traceur.options.experimental = true;
+        //new traceur.WebPageTranscoder(document.location.href).run();
     </script>
 
-    <script type="module" src="app/bootstrap.js"></script>
+    <!-- <script type="text/javascript" src="dist/bootstrap.js"></script>-->
 </body>
 </html>

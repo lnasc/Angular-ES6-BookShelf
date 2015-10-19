@@ -1,2 +1,2 @@
-import { default as bookShelfModule} from './app/bookShelf.main';
+import { default as bookShelfModule} from './bookShelf.main';
 angular.bootstrap(document, [bookShelfModule]);
