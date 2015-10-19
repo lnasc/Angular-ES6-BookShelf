@@ -1,0 +1,857 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"bookShelfModule"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 372,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dist/Controllers/AddBookController.js",
+			"settings":
+			{
+				"buffer_size": 2350,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/bootstrap.js",
+			"settings":
+			{
+				"buffer_size": 339,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/bookShelf.services.js",
+			"settings":
+			{
+				"buffer_size": 2584,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Controllers/AddBookController.js",
+			"settings":
+			{
+				"buffer_size": 974,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 2267,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/bookShelfApi.js",
+			"settings":
+			{
+				"buffer_size": 1854,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/bookShelfData.js",
+			"settings":
+			{
+				"buffer_size": 1554,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Index.html",
+			"settings":
+			{
+				"buffer_size": 2389,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "(div>dl>(dt+dd)*12)+footer>p",
+			"file": "/C/Users/lnascimb/Desktop/test.html",
+			"file_size": 27,
+			"file_write_time": 130897323043733720,
+			"settings":
+			{
+				"buffer_size": 28,
+				"line_ending": "Windows",
+				"name": "(div>dl>(dt+dd)*3)+footer>p"
+			}
+		},
+		{
+			"file": "app/bookShelf.directives.js",
+			"settings":
+			{
+				"buffer_size": 1041,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 305,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/bootstrap.js",
+			"settings":
+			{
+				"buffer_size": 114,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dist/bookShelf.main.js",
+			"settings":
+			{
+				"buffer_size": 1228,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/bookShelf.directives.js",
+			"settings":
+			{
+				"buffer_size": 2193,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/bookShelf.main.js",
+			"settings":
+			{
+				"buffer_size": 989,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "npm",
+		"selected_items":
+		[
+			[
+				"npm",
+				"npm: List Installed Packages"
+			],
+			[
+				"Packa",
+				"Package Control: List Packages"
+			],
+			[
+				"npm ",
+				"npm: Install Package"
+			],
+			[
+				"np",
+				"npm: List Installed Packages"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Bower: Install",
+				"Bower: Install"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"	",
+				"Bower: Install"
+			],
+			[
+				"bow",
+				"Bower: Install"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 229.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/lnascimb/Documents/GitHub/Angular-ES6-BookShelf",
+		"/C/Users/lnascimb/Documents/GitHub/Angular-ES6-BookShelf/app",
+		"/C/Users/lnascimb/Documents/GitHub/Angular-ES6-BookShelf/dist",
+		"/C/Users/lnascimb/Documents/GitHub/Angular-ES6-BookShelf/node_modules/alter",
+		"/C/Users/lnascimb/Documents/GitHub/Angular-ES6-BookShelf/node_modules/ansi-green",
+		"/C/Users/lnascimb/Documents/GitHub/Angular-ES6-BookShelf/node_modules/babel-plugin-dead-code-elimination",
+		"/C/Users/lnascimb/Documents/GitHub/Angular-ES6-BookShelf/node_modules/binary-extensions",
+		"/C/Users/lnascimb/Documents/GitHub/Angular-ES6-BookShelf/node_modules/globals",
+		"/C/Users/lnascimb/Documents/GitHub/Angular-ES6-BookShelf/node_modules/jsesc",
+		"/C/Users/lnascimb/Documents/GitHub/Angular-ES6-BookShelf/node_modules/kind-of"
+	],
+	"file_history":
+	[
+		"/C/Users/lnascimb/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/lnascimb/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/lnascimb/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/lnascimb/Documents/GitHub/ES6Sample/index.js",
+		"/C/Users/lnascimb/Documents/GitHub/ES6Sample/.bowerrc",
+		"/C/Users/lnascimb/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"const INIT = new WeakMap();\nconst SERVICE = new WeakMap();\nconst TIMEOUT = new WeakMap();\n\nclass HomeController{\n  constructor($timeout, bookShelfSvc){\n    SERVICE.set(this, bookShelfSvc);\n    TIMEOUT.set(this, $timeout);\n    INIT.set(this, () => {\n      SERVICE.get(this).getActiveBooks().then(books => {\n        this.books = books;\n      });\n    });\n\n    INIT.get(this)();\n  }\n\n  markBookAsRead(bookId, isBookRead){\n    return SERVICE.get(this).markBookRead(bookId, isBookRead)\n      .then(() => {\n        INIT.get(this)();\n        this.readSuccess = true;\n        this.readSuccessMessage = isBookRead ? \"Book marked as read.\" : \"Book marked as unread.\";\n        TIMEOUT.get(this)(() => {\n          this.readSuccess = false;\n        }, 2500);\n      });\n  }\n\n  addToArchive(bookId){\n    return SERVICE.get(this).addToArchive(bookId)\n      .then(() => {\n        INIT.get(this)();\n        this.archiveSuccess = true;\n        TIMEOUT.get(this)(() => {\n          this.archiveSuccess = false;\n        }, 2500);\n      });\n  }\n}\n",
+			"pyv8",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dist/Controllers/AddBookController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dist/bootstrap.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dist/bookShelf.services.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Controllers/AddBookController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								584,
+								584
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "server/bookShelfApi.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1657,
+								1663
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "server/bookShelfData.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2126,
+								2126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 525.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/lnascimb/Desktop/test.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(div>dl>(dt+dd)*3)+footer>p",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/bookShelf.directives.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1014,
+								1020
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								287,
+								279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/bootstrap.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "dist/bookShelf.main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								606,
+								609
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "dist/bookShelf.directives.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "app/bookShelf.main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 989,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": -0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.textarea":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "proj.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 408.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
