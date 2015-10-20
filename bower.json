@@ -10,5 +10,20 @@
     "bootstrap": "~3.2.0",
     "traceur": "0.0.79",
     "angular-messages": "~1.3.8"
-  }
+  },
+  "homepage": "https://github.com/sravikiran/Angular-ES6-BookShelf",
+  "authors": [
+    "Ludovic Nascimbeni <ludovic.nascimbeni@gmail.com>"
+  ],
+  "description": "",
+  "main": "app/bootstrap.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }

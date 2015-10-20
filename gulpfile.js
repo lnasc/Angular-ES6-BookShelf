@@ -1,4 +1,5 @@
 var gulp = require('gulp'),
+	plumber = require('gulp-plumber'),
 	sourcemaps = require('gulp-sourcemaps'),
 	concat = require('gulp-concat'),
     server = require('gulp-express'),
@@ -12,10 +13,8 @@ gulp.task('server', function () {
 
 gulp.task('babel', function () {
 	return gulp.src("app/**/*.js")
-		.pipe(sourcemaps.init())
+		.pipe(plumber())
 		.pipe(babel({ modules: 'amd' }))
-		.pipe(concat('all.js'))
-		.pipe(sourcemaps.write('.'))
 		.pipe(gulp.dest("dist"));
 });
 
